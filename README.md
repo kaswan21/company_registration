@@ -1,4 +1,4 @@
-# Bluestock — Company Registration & Verification Module
+#Company Registration & Verification Module
 
 A modern, full-stack application for company registration and verification built with React, Firebase, Express, and PostgreSQL.
 
